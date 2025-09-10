@@ -208,6 +208,7 @@ __marimo__/
 
 #
 poetry.lock
+.vscode/*
 
 # Experiments
 ml/data*

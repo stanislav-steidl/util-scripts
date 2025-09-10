@@ -19,7 +19,7 @@ model = nn.Sequential(
 
 # Loss and optimizer
 criterion = nn.MSELoss()
-optimizer = optim.Adam(model.parameters(), lr=0.01)
+optimizer = optim.Adam(model.parameters(), lr=0.01) # type: ignore
 
 # Training loop
 for epoch in range(5):

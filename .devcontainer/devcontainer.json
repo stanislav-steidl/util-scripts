@@ -22,7 +22,8 @@
         "ms-python.black-formatter",
         "github.vscode-github-actions",
         "GitHub.copilot-chat",
-        "GitHub.vscode-pull-request-github"
+        "GitHub.vscode-pull-request-github",
+        "mechatroner.rainbow-csv"
       ],
       "settings": {
         "python.analysis.typeCheckingMode": "basic",
@@ -42,8 +43,15 @@
   ],
 
   // Enable GPU support in Docker
-  "runArgs": ["--gpus", "all"],
+  "runArgs": ["--gpus", "all","--network=host"],
 
   "workspaceFolder": "/workspace",
-  "remoteUser": "vscode"
+  "remoteUser": "vscode",
+  "containerEnv": {
+    "PYTHONPATH": "/workspace:${PYTHONPATH}",
+    "DISPLAY": "host.docker.internal:0",
+    "LIBGL_ALWAYS_INDIRECT": "1"
 }
+
+}
+

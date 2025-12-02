@@ -1,0 +1,1201 @@
+city,country,temperature,date
+Madrid,ES,17.9,2023-03-25
+Buenos Aires,AR,0.9,2022-02-22
+New York,US,25.5,2023-06-21
+Cape Town,ZA,28.2,2021-08-22
+London,GB,2.6,2024-11-05
+Los Angeles,US,19.4,2023-05-25
+Mexico City,MX,9.9,2021-12-08
+Mumbai,IN,37.5,2021-03-25
+Moscow,RU,20.0,2024-04-05
+Buenos Aires,AR,30.4,2021-04-18
+Singapore,SG,30.8,2023-05-13
+London,GB,9.7,2023-09-06
+London,GB,10.0,2024-02-08
+Buenos Aires,AR,7.4,2020-10-27
+Paris,FR,10.4,2020-01-21
+Tokyo,JP,16.3,2024-03-04
+Rio de Janeiro,BR,36.6,2023-08-11
+Dubai,AE,10.0,2023-10-08
+Singapore,SG,17.5,2024-11-08
+Cape Town,ZA,21.5,2020-04-11
+Moscow,RU,-1.6,2021-09-14
+Berlin,DE,5.3,2020-10-20
+Toronto,CA,15.9,2021-05-15
+Mexico City,MX,3.9,2023-09-21
+New York,US,-4.9,2024-02-18
+Paris,FR,10.4,2023-02-01
+Toronto,CA,16.9,2021-06-24
+Beijing,CN,22.1,2022-07-24
+Mexico City,MX,3.3,2024-11-24
+Beijing,CN,10.1,2024-11-26
+Moscow,RU,13.9,2022-07-15
+Buenos Aires,AR,22.7,2024-06-20
+Toronto,CA,-2.7,2022-09-07
+Dubai,AE,38.6,2020-08-06
+Moscow,RU,16.1,2020-03-07
+Beijing,CN,0.8,2024-09-10
+Cape Town,ZA,33.6,2020-08-04
+New York,US,7.1,2020-11-28
+Mexico City,MX,12.1,2021-10-09
+Berlin,DE,21.2,2024-05-27
+Bangkok,TH,20.6,2023-10-06
+New York,US,0.9,2023-12-01
+Los Angeles,US,25.5,2022-05-10
+Mexico City,MX,22.8,2024-08-25
+Nairobi,KE,28.9,2024-03-04
+Mexico City,MX,27.7,2023-07-09
+Mexico City,MX,25.2,2024-07-27
+London,GB,5.9,2021-12-15
+London,GB,15.4,2023-08-17
+Paris,FR,18.0,2020-04-13
+Dubai,AE,36.9,2021-06-09
+Los Angeles,US,27.7,2024-08-10
+Moscow,RU,3.1,2020-08-18
+Tokyo,JP,33.1,2023-08-23
+Los Angeles,US,7.2,2022-12-13
+Mexico City,MX,5.6,2022-09-04
+Mumbai,IN,49.0,2022-05-10
+Madrid,ES,11.3,2022-09-27
+Mumbai,IN,38.5,2023-06-13
+Moscow,RU,8.5,2021-06-24
+Mexico City,MX,4.5,2020-10-10
+Tokyo,JP,4.4,2022-12-17
+Sydney,AU,23.3,2022-07-04
+New York,US,18.7,2022-03-26
+Tokyo,JP,7.0,2024-01-09
+Mumbai,IN,22.7,2022-11-08
+London,GB,14.3,2024-04-16
+Cape Town,ZA,21.8,2021-07-04
+Beijing,CN,-5.7,2020-10-15
+Rio de Janeiro,BR,14.9,2020-11-04
+Cape Town,ZA,22.8,2020-06-06
+Tokyo,JP,29.4,2021-04-17
+Madrid,ES,26.2,2024-04-09
+London,GB,29.4,2024-07-19
+New York,US,11.7,2021-07-25
+Cape Town,ZA,6.9,2020-11-06
+Sydney,AU,28.7,2020-05-09
+London,GB,10.2,2024-09-26
+Nairobi,KE,35.6,2023-07-23
+Buenos Aires,AR,3.1,2020-11-18
+Madrid,ES,-0.5,2021-12-25
+Sydney,AU,30.8,2023-03-26
+Buenos Aires,AR,19.3,2020-05-04
+New York,US,16.5,2024-06-04
+Beijing,CN,3.6,2020-09-17
+Mumbai,IN,22.3,2024-11-08
+Bangkok,TH,43.2,2024-05-28
+Tokyo,JP,24.9,2024-07-03
+Bangkok,TH,38.4,2020-03-04
+Berlin,DE,19.3,2021-04-14
+Rio de Janeiro,BR,13.7,2022-10-25
+Cape Town,ZA,34.4,2023-06-03
+Paris,FR,7.3,2023-11-01
+Moscow,RU,-7.7,2021-10-17
+Mumbai,IN,24.5,2023-12-14
+Toronto,CA,-1.6,2020-11-28
+Rio de Janeiro,BR,30.3,2024-07-01
+Nairobi,KE,6.5,2020-10-12
+Paris,FR,21.1,2024-05-16
+Tokyo,JP,22.4,2020-04-27
+Beijing,CN,25.1,2023-07-15
+Tokyo,JP,12.1,2021-09-27
+Dubai,AE,34.3,2021-04-23
+New York,US,1.7,2021-10-27
+Buenos Aires,AR,31.1,2023-06-27
+Dubai,AE,39.7,2021-08-16
+Los Angeles,US,9.8,2021-10-08
+Nairobi,KE,16.4,2020-09-15
+Madrid,ES,28.1,2022-03-11
+Nairobi,KE,14.8,2023-01-23
+Moscow,RU,-1.9,2020-12-19
+Buenos Aires,AR,5.1,2024-02-24
+Tokyo,JP,12.3,2023-01-05
+Mumbai,IN,42.4,2022-08-03
+Berlin,DE,7.1,2021-10-20
+Bangkok,TH,39.7,2021-06-19
+Paris,FR,16.4,2020-05-27
+Tokyo,JP,30.1,2023-03-28
+Dubai,AE,19.0,2022-02-19
+Sydney,AU,13.6,2021-01-18
+Rio de Janeiro,BR,33.5,2024-06-03
+Nairobi,KE,25.9,2020-04-11
+Mumbai,IN,38.2,2023-08-15
+Bangkok,TH,15.5,2024-02-18
+Moscow,RU,13.3,2024-06-20
+Madrid,ES,4.7,2023-11-12
+Mexico City,MX,30.4,2022-04-22
+Tokyo,JP,1.7,2020-09-20
+Toronto,CA,3.7,2022-11-01
+Berlin,DE,22.3,2022-07-19
+Paris,FR,11.9,2022-11-12
+Madrid,ES,22.7,2020-08-15
+Mexico City,MX,4.6,2020-09-04
+Sydney,AU,27.3,2024-06-10
+Bangkok,TH,33.5,2022-04-25
+Berlin,DE,0.0,2021-11-03
+Berlin,DE,31.3,2023-08-11
+Cape Town,ZA,3.1,2024-11-03
+Cape Town,ZA,29.3,2024-04-14
+Nairobi,KE,10.0,2022-02-28
+Los Angeles,US,31.9,2021-06-02
+Berlin,DE,22.5,2022-03-25
+Moscow,RU,0.4,2022-11-04
+Berlin,DE,5.0,2023-01-23
+Dubai,AE,22.1,2023-12-18
+Rio de Janeiro,BR,33.6,2024-05-11
+Toronto,CA,-0.8,2024-10-15
+Toronto,CA,28.4,2020-07-04
+Beijing,CN,-2.5,2024-10-22
+Rio de Janeiro,BR,5.2,2020-02-19
+Los Angeles,US,10.0,2021-11-17
+Mexico City,MX,19.4,2021-03-09
+Dubai,AE,21.8,2020-09-07
+Sydney,AU,28.8,2022-06-04
+Nairobi,KE,8.6,2022-10-18
+Cape Town,ZA,7.9,2021-02-27
+Mexico City,MX,28.7,2022-05-01
+Paris,FR,1.4,2021-09-23
+Los Angeles,US,7.1,2023-01-12
+Mexico City,MX,28.3,2020-07-05
+Bangkok,TH,21.8,2023-11-14
+Nairobi,KE,25.1,2022-04-10
+Bangkok,TH,38.8,2020-05-22
+Paris,FR,24.3,2022-07-02
+Paris,FR,26.2,2024-03-23
+Singapore,SG,23.0,2022-09-21
+New York,US,6.6,2023-01-24
+Buenos Aires,AR,4.2,2023-12-11
+Singapore,SG,36.8,2023-03-23
+London,GB,6.7,2022-08-08
+Dubai,AE,30.0,2023-07-08
+Nairobi,KE,33.9,2024-06-03
+Mexico City,MX,16.3,2021-08-05
+Paris,FR,5.0,2024-11-18
+Sydney,AU,22.9,2021-08-08
+Beijing,CN,5.7,2021-09-09
+Tokyo,JP,10.5,2024-11-24
+Los Angeles,US,25.2,2024-04-22
+New York,US,19.2,2022-05-06
+Singapore,SG,34.5,2020-08-04
+Dubai,AE,44.2,2020-05-01
+Singapore,SG,13.6,2023-11-28
+Sydney,AU,31.1,2022-05-01
+Bangkok,TH,44.1,2021-08-27
+Paris,FR,12.3,2024-09-02
+Mumbai,IN,10.3,2023-02-27
+Rio de Janeiro,BR,26.7,2021-06-19
+Singapore,SG,43.0,2024-07-19
+Cape Town,ZA,-0.2,2020-10-04
+Rio de Janeiro,BR,27.7,2022-03-09
+Singapore,SG,40.4,2024-03-03
+Toronto,CA,-11.0,2022-10-28
+London,GB,7.0,2020-11-10
+Buenos Aires,AR,22.6,2020-08-06
+Cape Town,ZA,23.7,2023-07-21
+Sydney,AU,27.8,2021-07-25
+London,GB,-4.8,2024-12-10
+Nairobi,KE,28.1,2020-07-21
+Mumbai,IN,3.5,2023-01-14
+Paris,FR,-4.8,2022-12-14
+Singapore,SG,39.4,2022-05-14
+Nairobi,KE,33.6,2020-08-27
+Berlin,DE,1.4,2024-10-25
+Nairobi,KE,10.4,2024-09-20
+Buenos Aires,AR,-3.3,2023-10-27
+Sydney,AU,28.3,2023-05-12
+Singapore,SG,26.6,2020-09-22
+Toronto,CA,18.8,2024-04-10
+Toronto,CA,14.7,2024-06-03
+Los Angeles,US,6.5,2022-09-03
+Madrid,ES,28.4,2024-03-15
+Singapore,SG,25.9,2020-10-13
+Moscow,RU,12.9,2024-08-05
+Buenos Aires,AR,-2.8,2024-11-08
+Nairobi,KE,9.7,2022-11-05
+Paris,FR,-1.3,2022-02-09
+Berlin,DE,23.4,2022-08-07
+Paris,FR,16.2,2020-08-10
+Toronto,CA,4.4,2021-11-21
+Beijing,CN,18.2,2021-07-08
+Los Angeles,US,2.9,2024-09-18
+Mumbai,IN,38.7,2020-08-16
+Mumbai,IN,17.6,2023-09-06
+Mumbai,IN,16.7,2022-01-02
+Paris,FR,18.0,2024-07-12
+Rio de Janeiro,BR,38.4,2023-04-07
+Dubai,AE,36.4,2024-03-09
+New York,US,1.1,2021-12-24
+Sydney,AU,23.5,2024-04-26
+Berlin,DE,1.4,2021-09-11
+Mexico City,MX,7.1,2022-10-22
+Tokyo,JP,-0.0,2020-10-09
+Mumbai,IN,50.0,2024-04-26
+Berlin,DE,2.4,2023-09-13
+Mumbai,IN,16.2,2021-02-20
+Moscow,RU,-8.2,2021-11-18
+Buenos Aires,AR,33.3,2022-04-22
+Beijing,CN,17.5,2020-03-02
+Madrid,ES,23.7,2024-06-14
+Buenos Aires,AR,3.7,2022-11-05
+Mexico City,MX,30.5,2022-08-03
+Moscow,RU,2.2,2024-02-16
+New York,US,26.7,2021-05-12
+Buenos Aires,AR,23.4,2022-05-12
+Tokyo,JP,35.5,2021-07-25
+Beijing,CN,25.4,2020-04-08
+Toronto,CA,0.1,2021-02-08
+Nairobi,KE,9.9,2021-09-07
+New York,US,16.2,2020-04-13
+Tokyo,JP,14.8,2021-10-02
+Toronto,CA,-2.1,2024-09-03
+Moscow,RU,11.3,2021-05-07
+Moscow,RU,19.0,2020-04-16
+Tokyo,JP,32.0,2021-08-08
+Buenos Aires,AR,11.6,2023-09-10
+Bangkok,TH,15.0,2021-10-15
+Sydney,AU,6.5,2023-09-21
+Rio de Janeiro,BR,13.3,2022-11-14
+Paris,FR,29.8,2022-03-24
+Madrid,ES,22.8,2022-06-15
+Rio de Janeiro,BR,27.7,2020-07-28
+Mexico City,MX,27.1,2024-05-14
+Mumbai,IN,18.7,2023-10-25
+Berlin,DE,25.8,2021-06-09
+Toronto,CA,22.4,2020-08-14
+Dubai,AE,36.8,2024-07-12
+Beijing,CN,-10.3,2021-02-05
+Beijing,CN,0.9,2022-12-14
+Nairobi,KE,34.8,2021-03-06
+Cape Town,ZA,-1.2,2023-10-18
+Beijing,CN,26.3,2024-03-14
+Dubai,AE,18.8,2023-09-12
+Berlin,DE,6.4,2022-11-14
+Singapore,SG,25.5,2024-10-21
+Paris,FR,-1.1,2024-02-25
+London,GB,37.7,2023-04-18
+London,GB,24.5,2022-07-03
+Paris,FR,16.3,2020-03-28
+Cape Town,ZA,6.6,2020-09-08
+Tokyo,JP,29.8,2021-05-13
+Los Angeles,US,9.4,2021-09-01
+Buenos Aires,AR,8.9,2022-01-12
+London,GB,25.4,2020-04-01
+Singapore,SG,40.6,2024-05-09
+Berlin,DE,14.9,2020-03-09
+Bangkok,TH,7.7,2021-02-01
+Berlin,DE,23.6,2024-07-01
+Buenos Aires,AR,37.0,2020-04-13
+Singapore,SG,43.5,2020-04-08
+Bangkok,TH,46.5,2024-06-13
+Cape Town,ZA,-0.2,2021-11-20
+Madrid,ES,10.0,2023-02-26
+Cape Town,ZA,37.5,2021-04-21
+Madrid,ES,23.7,2022-05-02
+New York,US,20.2,2023-05-04
+Dubai,AE,37.5,2024-05-23
+Rio de Janeiro,BR,36.7,2021-03-07
+Bangkok,TH,28.1,2020-08-02
+Singapore,SG,38.2,2022-03-21
+Madrid,ES,3.2,2020-02-28
+Buenos Aires,AR,34.3,2020-06-08
+Mumbai,IN,37.1,2022-03-11
+Sydney,AU,1.3,2023-12-16
+Madrid,ES,18.9,2024-05-13
+Toronto,CA,-1.9,2020-12-12
+Buenos Aires,AR,22.4,2021-07-20
+Nairobi,KE,-7.0,2022-01-20
+New York,US,15.2,2020-07-17
+New York,US,22.4,2020-08-09
+Singapore,SG,15.6,2023-01-15
+Sydney,AU,18.1,2022-08-17
+London,GB,12.9,2021-01-04
+Rio de Janeiro,BR,5.5,2021-02-27
+Madrid,ES,14.6,2022-01-14
+Paris,FR,-0.7,2024-12-16
+Moscow,RU,16.3,2024-03-12
+Dubai,AE,18.9,2023-01-23
+Bangkok,TH,32.3,2024-07-26
+Toronto,CA,-5.8,2022-12-16
+Madrid,ES,2.6,2020-11-11
+Dubai,AE,31.1,2020-04-12
+Mumbai,IN,37.8,2024-08-26
+Rio de Janeiro,BR,11.1,2023-12-03
+Beijing,CN,11.3,2024-12-06
+Los Angeles,US,28.1,2023-04-08
+Beijing,CN,22.8,2022-03-28
+Dubai,AE,17.5,2020-11-23
+Paris,FR,2.8,2022-10-06
+Mumbai,IN,36.0,2020-07-08
+Sydney,AU,6.2,2024-10-15
+Moscow,RU,-3.9,2023-10-12
+London,GB,16.0,2020-03-01
+London,GB,22.1,2020-07-17
+Mexico City,MX,-0.3,2020-12-24
+Los Angeles,US,3.1,2020-11-10
+Cape Town,ZA,27.3,2022-08-05
+Dubai,AE,15.9,2020-02-23
+Sydney,AU,10.5,2022-12-27
+Los Angeles,US,29.9,2020-06-15
+London,GB,16.0,2022-04-17
+Madrid,ES,12.9,2021-06-14
+Moscow,RU,-4.1,2020-02-22
+Singapore,SG,43.3,2023-07-08
+Singapore,SG,17.8,2020-01-18
+Berlin,DE,18.8,2022-05-24
+Cape Town,ZA,10.9,2022-10-04
+Dubai,AE,34.3,2021-07-02
+Rio de Janeiro,BR,36.3,2024-08-13
+Bangkok,TH,42.6,2022-06-23
+Moscow,RU,16.2,2023-03-11
+Paris,FR,22.4,2021-05-02
+Paris,FR,20.4,2024-04-19
+London,GB,-3.6,2022-02-08
+Mexico City,MX,5.1,2023-01-23
+Beijing,CN,2.3,2023-09-07
+London,GB,2.7,2023-12-06
+Mexico City,MX,23.2,2021-07-24
+New York,US,6.1,2023-11-26
+Singapore,SG,31.4,2021-07-10
+London,GB,16.6,2024-08-15
+Rio de Janeiro,BR,39.0,2023-07-26
+Sydney,AU,10.1,2022-10-24
+Tokyo,JP,8.8,2020-01-19
+Nairobi,KE,27.1,2021-06-02
+Bangkok,TH,20.1,2023-12-12
+Los Angeles,US,-0.3,2023-02-26
+New York,US,5.0,2021-01-18
+Nairobi,KE,0.2,2023-12-01
+Dubai,AE,35.7,2022-03-24
+Toronto,CA,16.9,2024-08-12
+Beijing,CN,25.2,2021-06-14
+Los Angeles,US,6.5,2020-02-19
+Bangkok,TH,19.7,2022-02-18
+Beijing,CN,0.0,2021-01-18
+Beijing,CN,1.1,2021-10-08
+Cape Town,ZA,33.9,2020-05-23
+Mumbai,IN,44.3,2024-06-21
+Mexico City,MX,5.8,2022-02-20
+Nairobi,KE,-3.6,2021-12-04
+Mexico City,MX,29.5,2021-05-27
+Singapore,SG,14.0,2021-12-08
+Madrid,ES,12.6,2021-11-14
+Rio de Janeiro,BR,8.6,2024-01-25
+Singapore,SG,25.6,2024-09-12
+Toronto,CA,26.4,2024-07-26
+Nairobi,KE,7.6,2020-01-21
+New York,US,6.8,2020-01-22
+Dubai,AE,33.9,2020-03-08
+New York,US,-2.2,2022-09-26
+Buenos Aires,AR,21.8,2021-06-28
+Berlin,DE,17.1,2021-07-16
+Mexico City,MX,25.3,2024-04-07
+Nairobi,KE,12.9,2022-09-27
+Paris,FR,32.7,2023-05-15
+Cape Town,ZA,9.9,2020-01-03
+Los Angeles,US,4.4,2022-11-13
+Mexico City,MX,2.4,2024-12-06
+Cape Town,ZA,30.9,2020-03-08
+Toronto,CA,17.6,2021-07-16
+Rio de Janeiro,BR,17.0,2023-11-19
+Cape Town,ZA,5.0,2024-10-01
+Los Angeles,US,25.1,2021-03-01
+Sydney,AU,36.6,2020-03-25
+Los Angeles,US,14.8,2020-12-17
+Cape Town,ZA,8.8,2021-01-21
+New York,US,24.8,2024-03-07
+Moscow,RU,3.6,2020-11-11
+Sydney,AU,5.3,2024-12-11
+Toronto,CA,-3.3,2024-01-13
+Berlin,DE,10.6,2022-06-06
+Beijing,CN,20.6,2024-06-02
+Rio de Janeiro,BR,38.1,2020-06-21
+Toronto,CA,20.6,2023-05-10
+Paris,FR,5.1,2021-10-02
+Cape Town,ZA,2.7,2024-12-03
+Berlin,DE,3.9,2024-02-03
+Mexico City,MX,22.7,2023-04-12
+Toronto,CA,-3.8,2020-09-28
+Beijing,CN,4.3,2020-12-28
+Cape Town,ZA,40.1,2023-03-17
+Sydney,AU,33.1,2020-04-03
+Tokyo,JP,21.9,2021-06-26
+Madrid,ES,7.4,2021-09-07
+Toronto,CA,-8.4,2023-11-27
+Beijing,CN,19.5,2023-06-25
+New York,US,3.3,2021-09-15
+Dubai,AE,22.4,2024-01-02
+Buenos Aires,AR,33.0,2022-06-13
+Dubai,AE,33.8,2023-06-20
+London,GB,26.0,2022-06-24
+Beijing,CN,-1.4,2020-02-07
+Tokyo,JP,3.8,2023-10-03
+Paris,FR,7.0,2020-09-25
+Mexico City,MX,24.1,2020-08-14
+Cape Town,ZA,29.5,2022-04-15
+Mexico City,MX,6.3,2023-11-08
+Mexico City,MX,14.1,2022-11-20
+Paris,FR,0.9,2023-10-19
+Nairobi,KE,16.8,2024-02-14
+New York,US,11.9,2023-02-17
+Cape Town,ZA,15.1,2023-12-09
+Bangkok,TH,44.0,2021-05-06
+Nairobi,KE,13.8,2021-01-17
+Dubai,AE,22.7,2022-12-05
+Nairobi,KE,6.1,2023-09-13
+Berlin,DE,-2.3,2021-02-18
+Singapore,SG,18.9,2021-10-04
+Dubai,AE,22.3,2023-02-11
+Toronto,CA,9.4,2022-05-13
+New York,US,26.7,2020-06-16
+Singapore,SG,17.3,2021-02-07
+Dubai,AE,25.5,2021-12-05
+Beijing,CN,18.4,2022-04-10
+Los Angeles,US,32.3,2020-04-15
+Los Angeles,US,22.3,2021-07-24
+Mexico City,MX,35.4,2020-03-13
+Paris,FR,11.4,2021-03-28
+Nairobi,KE,7.2,2024-11-03
+Bangkok,TH,37.8,2020-04-01
+Mexico City,MX,11.0,2021-01-25
+Rio de Janeiro,BR,6.3,2024-02-26
+Sydney,AU,26.9,2023-06-08
+Moscow,RU,21.4,2022-05-06
+Sydney,AU,20.7,2024-08-04
+Singapore,SG,34.9,2022-06-22
+Rio de Janeiro,BR,33.0,2020-03-08
+Toronto,CA,11.3,2024-05-16
+Mexico City,MX,26.2,2020-06-10
+Los Angeles,US,21.9,2022-07-12
+Los Angeles,US,11.8,2020-10-18
+Dubai,AE,30.9,2024-04-03
+Nairobi,KE,41.4,2021-05-26
+Los Angeles,US,6.0,2024-11-13
+Paris,FR,2.8,2020-10-01
+Dubai,AE,44.0,2023-04-28
+Beijing,CN,19.0,2024-07-10
+New York,US,2.9,2020-12-03
+New York,US,-5.0,2022-11-19
+Beijing,CN,13.1,2020-06-20
+London,GB,9.1,2022-10-27
+Buenos Aires,AR,12.0,2021-10-04
+Beijing,CN,27.5,2023-03-26
+Cape Town,ZA,32.6,2022-05-04
+Cape Town,ZA,5.9,2022-02-13
+Paris,FR,20.6,2021-08-15
+Sydney,AU,2.5,2022-01-17
+Beijing,CN,3.2,2022-09-03
+Singapore,SG,28.1,2023-08-11
+Beijing,CN,6.8,2023-10-19
+Moscow,RU,21.7,2020-06-07
+Singapore,SG,33.4,2022-08-28
+New York,US,28.7,2021-06-07
+New York,US,2.0,2022-01-24
+Rio de Janeiro,BR,14.1,2024-11-25
+New York,US,-0.9,2021-11-18
+Cape Town,ZA,3.1,2023-02-03
+Los Angeles,US,2.0,2024-10-19
+Berlin,DE,21.0,2021-03-12
+Madrid,ES,7.6,2023-10-28
+Bangkok,TH,41.0,2024-08-18
+Dubai,AE,35.5,2021-05-06
+Cape Town,ZA,28.5,2021-05-03
+Beijing,CN,22.9,2021-03-28
+Bangkok,TH,31.6,2024-12-03
+Bangkok,TH,43.4,2023-06-09
+Mexico City,MX,25.2,2024-03-13
+Sydney,AU,35.4,2021-05-09
+Cape Town,ZA,-4.9,2023-09-19
+Beijing,CN,-2.0,2024-01-09
+London,GB,19.0,2020-06-03
+Mexico City,MX,-0.5,2020-11-22
+Toronto,CA,3.8,2020-02-02
+Moscow,RU,-6.3,2023-09-26
+Madrid,ES,36.4,2024-08-20
+Bangkok,TH,24.5,2021-12-09
+Bangkok,TH,11.1,2023-02-19
+New York,US,1.5,2023-09-21
+Rio de Janeiro,BR,13.7,2024-09-06
+Berlin,DE,22.5,2020-06-08
+New York,US,25.9,2020-03-16
+Paris,FR,24.9,2023-06-20
+Bangkok,TH,23.6,2022-12-09
+Sydney,AU,9.0,2024-11-26
+Sydney,AU,26.5,2023-08-25
+Tokyo,JP,16.4,2022-02-06
+Los Angeles,US,24.7,2023-03-06
+Moscow,RU,-2.0,2021-02-06
+New York,US,9.1,2024-11-02
+Singapore,SG,10.3,2021-11-07
+Paris,FR,7.1,2020-11-09
+Madrid,ES,24.8,2021-05-10
+London,GB,-1.4,2020-10-23
+Cape Town,ZA,28.5,2022-06-25
+Buenos Aires,AR,11.1,2022-10-08
+Moscow,RU,21.4,2022-06-17
+Mumbai,IN,33.4,2020-06-28
+Cape Town,ZA,27.1,2023-05-19
+Madrid,ES,35.2,2020-07-15
+Tokyo,JP,18.3,2022-01-01
+Rio de Janeiro,BR,14.0,2021-10-12
+Los Angeles,US,29.1,2022-04-18
+Rio de Janeiro,BR,15.2,2024-12-23
+Tokyo,JP,11.3,2024-10-27
+Madrid,ES,24.9,2021-07-23
+Bangkok,TH,43.4,2022-07-16
+Beijing,CN,22.7,2023-08-25
+Madrid,ES,36.5,2024-07-18
+London,GB,18.9,2020-08-17
+Beijing,CN,4.0,2022-10-07
+Buenos Aires,AR,34.4,2020-03-23
+Mexico City,MX,1.0,2024-10-12
+Mexico City,MX,22.6,2022-06-16
+Toronto,CA,-9.1,2023-09-16
+Singapore,SG,14.7,2024-02-16
+Paris,FR,18.8,2021-07-08
+Buenos Aires,AR,30.6,2024-03-26
+Singapore,SG,36.0,2024-06-17
+Madrid,ES,11.2,2023-12-15
+Nairobi,KE,24.0,2020-05-04
+Rio de Janeiro,BR,8.1,2023-10-17
+Singapore,SG,18.3,2022-10-04
+Dubai,AE,16.2,2020-12-24
+Bangkok,TH,18.6,2020-12-17
+Madrid,ES,2.2,2020-01-25
+Cape Town,ZA,4.8,2021-09-22
+Rio de Janeiro,BR,35.3,2024-04-06
+Nairobi,KE,14.4,2024-12-17
+Sydney,AU,6.3,2024-01-23
+Bangkok,TH,16.1,2021-09-08
+Sydney,AU,9.9,2022-09-24
+New York,US,19.6,2021-08-22
+Tokyo,JP,16.3,2022-05-22
+Beijing,CN,29.1,2024-04-01
+Toronto,CA,-6.7,2023-12-15
+Beijing,CN,-0.0,2024-02-02
+Tokyo,JP,5.5,2021-02-22
+Singapore,SG,11.3,2020-02-11
+Moscow,RU,-3.0,2024-01-02
+Mumbai,IN,20.1,2020-10-15
+Rio de Janeiro,BR,29.1,2022-04-15
+Buenos Aires,AR,6.8,2023-01-04
+Rio de Janeiro,BR,12.8,2022-01-22
+Toronto,CA,2.2,2024-11-27
+Mexico City,MX,4.7,2023-12-28
+Moscow,RU,11.1,2022-03-15
+London,GB,3.5,2020-01-13
+Moscow,RU,-6.2,2020-01-22
+Los Angeles,US,24.3,2024-06-27
+Cape Town,ZA,26.0,2024-08-24
+Dubai,AE,19.1,2024-10-10
+Dubai,AE,21.8,2022-10-22
+Tokyo,JP,22.2,2024-05-13
+Cape Town,ZA,20.8,2022-07-04
+Tokyo,JP,20.9,2020-06-21
+Nairobi,KE,35.0,2022-07-02
+Rio de Janeiro,BR,31.0,2024-03-23
+New York,US,22.1,2022-07-05
+Madrid,ES,9.8,2021-10-24
+Sydney,AU,11.4,2020-02-04
+Bangkok,TH,31.8,2020-07-23
+Mumbai,IN,31.0,2023-04-04
+Paris,FR,5.8,2020-12-16
+New York,US,-4.1,2020-10-25
+Tokyo,JP,9.5,2020-12-22
+Mexico City,MX,2.3,2020-01-04
+Los Angeles,US,28.7,2024-05-05
+Mexico City,MX,27.5,2022-03-06
+Mumbai,IN,12.5,2024-12-04
+Rio de Janeiro,BR,28.8,2021-08-12
+Toronto,CA,23.0,2020-06-03
+Nairobi,KE,19.5,2021-07-11
+Rio de Janeiro,BR,26.0,2021-04-20
+Mexico City,MX,22.9,2023-03-02
+Mumbai,IN,40.6,2020-04-10
+Tokyo,JP,1.3,2023-09-28
+London,GB,14.5,2022-05-08
+Rio de Janeiro,BR,11.8,2023-01-18
+Sydney,AU,6.6,2021-02-07
+Los Angeles,US,7.8,2021-12-17
+Tokyo,JP,1.5,2024-02-10
+Bangkok,TH,42.5,2023-03-02
+Tokyo,JP,27.4,2024-06-07
+Rio de Janeiro,BR,30.1,2023-03-12
+Mumbai,IN,13.7,2020-09-11
+Toronto,CA,23.2,2023-06-08
+Rio de Janeiro,BR,13.0,2020-12-08
+New York,US,5.9,2021-02-02
+Mumbai,IN,19.5,2021-09-11
+Beijing,CN,4.8,2023-12-04
+Sydney,AU,31.8,2024-07-17
+Sydney,AU,2.9,2022-11-15
+Nairobi,KE,5.7,2023-11-13
+Tokyo,JP,2.7,2021-01-03
+Madrid,ES,27.5,2021-04-13
+Dubai,AE,19.9,2021-01-23
+Nairobi,KE,29.5,2023-05-26
+Sydney,AU,25.8,2020-06-02
+London,GB,23.5,2023-06-23
+New York,US,-5.8,2024-01-24
+Buenos Aires,AR,-1.3,2020-09-07
+Beijing,CN,28.7,2022-05-13
+Berlin,DE,21.0,2024-03-23
+Mumbai,IN,33.1,2023-05-26
+Madrid,ES,12.0,2022-02-24
+Rio de Janeiro,BR,29.4,2020-04-12
+Cape Town,ZA,5.8,2024-01-18
+London,GB,5.0,2022-01-10
+Toronto,CA,-5.2,2020-01-18
+Toronto,CA,22.5,2021-08-27
+Dubai,AE,29.1,2022-09-28
+Mumbai,IN,18.9,2022-10-24
+Moscow,RU,16.4,2020-07-23
+Singapore,SG,17.8,2024-12-15
+Bangkok,TH,17.0,2022-09-22
+Moscow,RU,-0.6,2021-12-03
+Cape Town,ZA,1.4,2022-11-25
+Paris,FR,-8.2,2022-01-15
+Dubai,AE,34.4,2023-05-26
+Mumbai,IN,39.2,2021-08-18
+Cape Town,ZA,7.4,2022-01-06
+Moscow,RU,-9.4,2022-12-26
+Dubai,AE,14.3,2021-10-01
+Tokyo,JP,12.3,2024-09-04
+London,GB,31.8,2021-07-21
+Nairobi,KE,15.8,2024-01-18
+Singapore,SG,12.4,2022-11-10
+Beijing,CN,19.9,2024-08-01
+New York,US,12.2,2020-02-08
+Paris,FR,10.0,2022-09-11
+Los Angeles,US,6.9,2023-10-13
+Paris,FR,31.0,2023-03-05
+Buenos Aires,AR,16.1,2020-02-14
+Moscow,RU,-5.3,2020-09-16
+Buenos Aires,AR,2.7,2023-11-15
+Mumbai,IN,36.4,2024-07-01
+Buenos Aires,AR,31.5,2021-08-14
+Dubai,AE,19.8,2020-01-17
+Singapore,SG,23.0,2023-10-28
+Beijing,CN,21.4,2020-08-25
+Buenos Aires,AR,25.5,2023-04-27
+Buenos Aires,AR,11.3,2024-12-01
+Cape Town,ZA,6.3,2023-01-21
+Moscow,RU,-3.6,2022-10-28
+Toronto,CA,21.2,2021-04-27
+Nairobi,KE,9.5,2020-12-24
+Mumbai,IN,33.2,2020-05-21
+Moscow,RU,23.4,2021-04-01
+Moscow,RU,16.9,2024-05-18
+New York,US,15.6,2021-03-28
+Los Angeles,US,29.9,2023-06-27
+Buenos Aires,AR,1.6,2021-11-02
+Rio de Janeiro,BR,16.6,2021-09-28
+Nairobi,KE,22.4,2023-06-19
+Berlin,DE,13.5,2021-05-28
+New York,US,21.1,2024-07-01
+Moscow,RU,-15.4,2024-10-28
+Berlin,DE,-2.3,2020-02-23
+Berlin,DE,20.1,2020-05-06
+New York,US,22.8,2022-06-01
+Madrid,ES,-1.2,2020-09-10
+Rio de Janeiro,BR,39.5,2021-07-02
+Buenos Aires,AR,5.9,2022-12-26
+Nairobi,KE,30.7,2022-03-07
+Mumbai,IN,38.7,2023-03-14
+London,GB,-6.3,2020-12-24
+Moscow,RU,0.1,2023-01-07
+Dubai,AE,14.0,2022-11-15
+Beijing,CN,18.5,2021-04-03
+London,GB,29.8,2023-07-15
+Tokyo,JP,11.2,2023-12-04
+Moscow,RU,4.5,2024-09-14
+Beijing,CN,-2.4,2023-01-24
+Paris,FR,22.2,2022-04-10
+Singapore,SG,35.0,2022-04-05
+Cape Town,ZA,30.9,2020-07-17
+Toronto,CA,17.2,2022-07-09
+Beijing,CN,23.5,2020-05-06
+Los Angeles,US,24.8,2023-07-26
+Toronto,CA,15.3,2021-03-12
+Toronto,CA,18.6,2022-06-03
+Bangkok,TH,18.9,2022-11-06
+Madrid,ES,2.3,2023-01-04
+Bangkok,TH,21.3,2021-01-13
+Bangkok,TH,35.0,2021-03-14
+Paris,FR,21.4,2021-06-23
+Mexico City,MX,4.4,2022-12-21
+London,GB,27.2,2021-04-05
+Nairobi,KE,15.8,2020-02-07
+Mexico City,MX,9.2,2022-01-02
+Berlin,DE,35.0,2020-08-04
+Bangkok,TH,23.8,2022-10-27
+Singapore,SG,18.9,2020-11-03
+Sydney,AU,34.9,2023-07-26
+Tokyo,JP,1.0,2024-12-02
+New York,US,22.6,2023-04-04
+Rio de Janeiro,BR,36.3,2023-06-19
+London,GB,9.3,2021-11-18
+Mexico City,MX,9.2,2024-09-13
+Dubai,AE,21.0,2021-02-03
+Los Angeles,US,16.9,2021-02-18
+Los Angeles,US,25.0,2022-08-20
+Berlin,DE,7.0,2020-12-06
+Mumbai,IN,20.0,2024-02-02
+Mexico City,MX,28.1,2023-05-06
+Cape Town,ZA,10.9,2020-12-18
+Mumbai,IN,8.4,2020-02-16
+Sydney,AU,3.2,2023-02-18
+Sydney,AU,13.4,2021-12-02
+Nairobi,KE,30.4,2020-06-15
+Nairobi,KE,7.2,2021-11-20
+New York,US,10.9,2022-10-12
+Nairobi,KE,7.0,2020-11-02
+New York,US,4.0,2020-09-22
+Buenos Aires,AR,26.1,2024-07-27
+Paris,FR,-6.2,2023-09-19
+Toronto,CA,2.1,2023-01-27
+New York,US,-0.3,2022-02-15
+Cape Town,ZA,30.4,2021-03-23
+Singapore,SG,38.7,2021-05-14
+Tokyo,JP,-5.6,2022-10-18
+New York,US,20.2,2021-04-18
+Bangkok,TH,17.0,2021-11-04
+Beijing,CN,23.0,2023-05-03
+Cape Town,ZA,25.1,2022-03-20
+Toronto,CA,23.4,2023-08-02
+Sydney,AU,7.0,2020-09-22
+Paris,FR,17.8,2022-08-16
+Sydney,AU,11.7,2024-09-03
+Rio de Janeiro,BR,40.0,2020-08-19
+Madrid,ES,31.6,2021-08-25
+Beijing,CN,24.8,2021-08-22
+New York,US,2.3,2024-10-07
+Berlin,DE,7.4,2023-02-11
+Los Angeles,US,11.3,2023-12-07
+Dubai,AE,37.2,2022-07-23
+Rio de Janeiro,BR,9.8,2022-09-09
+Berlin,DE,7.4,2022-10-27
+Singapore,SG,37.9,2020-06-15
+Mumbai,IN,21.2,2023-11-07
+Buenos Aires,AR,3.1,2021-01-07
+Tokyo,JP,27.1,2020-07-26
+New York,US,6.4,2024-09-19
+Cape Town,ZA,21.2,2024-06-22
+Dubai,AE,22.7,2021-09-12
+Mumbai,IN,8.6,2022-09-22
+London,GB,1.4,2024-10-17
+Berlin,DE,21.8,2020-04-10
+Singapore,SG,47.5,2020-07-09
+Mumbai,IN,14.9,2020-11-04
+Berlin,DE,0.0,2024-09-20
+Nairobi,KE,32.9,2020-03-28
+Nairobi,KE,11.8,2021-10-24
+New York,US,10.1,2023-10-26
+Berlin,DE,-2.0,2022-12-26
+Moscow,RU,-6.3,2020-10-26
+Paris,FR,18.4,2022-05-22
+Berlin,DE,21.2,2024-08-19
+London,GB,-0.5,2023-11-07
+Mexico City,MX,3.1,2024-02-20
+Dubai,AE,40.7,2024-06-14
+Sydney,AU,33.8,2021-04-02
+New York,US,29.7,2023-07-15
+London,GB,30.8,2020-05-11
+Berlin,DE,15.4,2021-08-25
+Mumbai,IN,37.4,2022-07-04
+London,GB,12.6,2024-05-27
+Paris,FR,-2.5,2021-12-06
+Los Angeles,US,14.2,2021-01-09
+Cape Town,ZA,9.2,2021-12-25
+Mumbai,IN,18.8,2020-12-23
+Singapore,SG,36.4,2020-03-28
+Buenos Aires,AR,23.8,2020-07-07
+Toronto,CA,15.0,2022-08-04
+Mexico City,MX,28.2,2020-05-04
+Mexico City,MX,27.4,2023-06-09
+Buenos Aires,AR,28.7,2022-03-16
+Mexico City,MX,12.9,2021-02-14
+Tokyo,JP,27.0,2022-06-17
+Tokyo,JP,24.7,2020-05-15
+Bangkok,TH,34.9,2023-07-09
+Beijing,CN,-1.4,2022-11-28
+Toronto,CA,-2.3,2023-02-22
+Toronto,CA,13.3,2020-05-19
+London,GB,28.0,2024-03-28
+Dubai,AE,43.1,2020-07-25
+Singapore,SG,41.1,2021-08-14
+Mexico City,MX,25.6,2024-06-21
+Madrid,ES,7.0,2021-01-10
+Tokyo,JP,4.8,2021-11-18
+Cape Town,ZA,25.2,2024-03-25
+Berlin,DE,16.1,2024-06-02
+Moscow,RU,19.4,2023-04-03
+Madrid,ES,14.4,2021-02-27
+Nairobi,KE,13.6,2023-02-16
+Mexico City,MX,-3.1,2021-09-20
+London,GB,25.9,2021-08-05
+Toronto,CA,4.7,2022-01-01
+London,GB,-5.0,2022-12-16
+Singapore,SG,7.2,2023-09-19
+Rio de Janeiro,BR,12.3,2022-02-22
+Singapore,SG,24.4,2023-12-05
+Bangkok,TH,37.5,2024-03-28
+Moscow,RU,-1.5,2023-12-10
+Singapore,SG,15.8,2023-02-28
+Rio de Janeiro,BR,9.8,2024-10-07
+Dubai,AE,44.7,2023-03-21
+Bangkok,TH,19.6,2024-01-12
+Buenos Aires,AR,23.3,2024-05-12
+London,GB,23.2,2023-03-17
+Tokyo,JP,22.8,2024-08-25
+Paris,FR,27.7,2020-06-11
+Singapore,SG,36.0,2022-07-03
+Los Angeles,US,31.7,2020-05-03
+Bangkok,TH,11.7,2024-10-17
+Singapore,SG,32.1,2020-05-15
+Madrid,ES,8.9,2023-09-01
+Rio de Janeiro,BR,9.2,2020-10-25
+Tokyo,JP,8.6,2022-11-05
+Berlin,DE,19.6,2023-03-05
+Toronto,CA,17.9,2020-03-13
+Buenos Aires,AR,10.4,2021-02-23
+Paris,FR,-0.1,2023-12-21
+Berlin,DE,7.2,2022-02-22
+Madrid,ES,-0.8,2024-12-25
+Toronto,CA,-3.7,2022-02-15
+Buenos Aires,AR,2.5,2022-09-01
+Beijing,CN,25.0,2022-06-10
+Madrid,ES,17.0,2020-04-13
+Dubai,AE,43.4,2021-03-27
+Singapore,SG,17.3,2021-01-03
+London,GB,19.5,2021-06-26
+Tokyo,JP,26.6,2020-08-24
+Mexico City,MX,-4.7,2021-11-04
+Paris,FR,22.9,2021-04-21
+Nairobi,KE,20.9,2023-08-06
+Madrid,ES,23.2,2023-04-05
+Sydney,AU,14.0,2020-11-18
+New York,US,28.9,2024-08-24
+Madrid,ES,5.2,2022-10-04
+Buenos Aires,AR,9.3,2024-01-15
+Berlin,DE,26.5,2020-07-09
+Sydney,AU,1.7,2020-01-15
+Mexico City,MX,11.8,2020-02-10
+Rio de Janeiro,BR,33.0,2021-05-03
+Mexico City,MX,8.8,2024-01-08
+Bangkok,TH,46.7,2021-04-11
+Mumbai,IN,8.0,2021-11-18
+Dubai,AE,20.6,2022-01-05
+Madrid,ES,0.2,2020-12-24
+Rio de Janeiro,BR,14.3,2023-02-07
+Moscow,RU,-3.4,2021-01-08
+London,GB,7.3,2023-10-05
+Cape Town,ZA,12.2,2024-09-14
+Tokyo,JP,13.3,2023-02-25
+Bangkok,TH,36.9,2022-03-22
+Tokyo,JP,30.1,2024-04-04
+London,GB,28.0,2021-05-08
+Rio de Janeiro,BR,27.4,2022-08-20
+London,GB,-1.2,2024-01-08
+Sydney,AU,12.5,2020-12-19
+Beijing,CN,22.0,2020-07-05
+Rio de Janeiro,BR,19.8,2022-12-16
+Mumbai,IN,31.2,2021-06-21
+Nairobi,KE,25.5,2023-03-24
+Singapore,SG,21.8,2024-01-04
+Mumbai,IN,12.5,2021-12-20
+Rio de Janeiro,BR,9.0,2020-01-01
+Los Angeles,US,7.5,2024-01-11
+Paris,FR,9.9,2023-08-28
+Bangkok,TH,23.4,2020-10-08
+Singapore,SG,42.5,2021-06-08
+Nairobi,KE,28.7,2023-04-01
+Sydney,AU,6.6,2023-10-18
+London,GB,33.2,2022-03-28
+Paris,FR,14.5,2023-07-02
+Madrid,ES,7.5,2020-10-20
+Cape Town,ZA,23.9,2021-06-15
+Madrid,ES,26.9,2022-04-06
+Moscow,RU,17.3,2020-05-21
+Sydney,AU,0.2,2024-02-20
+London,GB,1.4,2023-02-19
+Toronto,CA,10.5,2020-10-24
+Dubai,AE,39.5,2022-06-14
+Madrid,ES,34.8,2023-05-17
+Moscow,RU,21.7,2021-03-19
+Cape Town,ZA,5.9,2024-02-27
+Buenos Aires,AR,29.9,2023-07-01
+Madrid,ES,31.1,2023-06-12
+Toronto,CA,22.4,2022-04-28
+London,GB,-11.1,2022-09-06
+Mumbai,IN,46.4,2024-03-21
+Madrid,ES,5.2,2022-12-26
+Sydney,AU,28.4,2021-03-23
+Los Angeles,US,6.0,2022-02-05
+Los Angeles,US,5.9,2022-10-19
+Bangkok,TH,40.1,2023-08-26
+Rio de Janeiro,BR,10.5,2021-12-21
+Nairobi,KE,34.0,2021-04-09
+Mumbai,IN,37.1,2021-05-27
+Madrid,ES,22.0,2023-07-13
+Los Angeles,US,26.1,2020-08-08
+Singapore,SG,17.6,2021-09-09
+Beijing,CN,29.4,2023-04-22
+Tokyo,JP,27.9,2023-05-18
+Toronto,CA,2.8,2021-09-19
+Madrid,ES,9.7,2024-10-01
+Tokyo,JP,17.8,2023-07-24
+Singapore,SG,34.1,2023-06-17
+Toronto,CA,8.6,2023-10-16
+Mumbai,IN,13.9,2024-01-10
+Buenos Aires,AR,4.6,2023-02-09
+Buenos Aires,AR,36.3,2024-08-20
+Nairobi,KE,7.1,2021-02-19
+Madrid,ES,4.5,2024-11-11
+Tokyo,JP,3.0,2022-09-28
+Mumbai,IN,36.2,2021-07-12
+Mumbai,IN,37.6,2023-07-28
+Rio de Janeiro,BR,35.4,2022-06-07
+New York,US,31.4,2024-04-10
+Sydney,AU,12.6,2023-11-01
+Mumbai,IN,16.1,2022-02-04
+Buenos Aires,AR,10.1,2020-12-22
+New York,US,35.6,2023-08-01
+Cape Town,ZA,5.4,2020-02-08
+Moscow,RU,-10.4,2024-12-11
+Berlin,DE,1.8,2022-01-13
+Beijing,CN,4.4,2023-11-03
+Bangkok,TH,40.7,2023-05-17
+Nairobi,KE,31.8,2021-08-01
+Toronto,CA,4.8,2021-01-10
+New York,US,-14.8,2024-12-25
+London,GB,20.3,2024-06-20
+Tokyo,JP,27.6,2022-08-12
+Moscow,RU,22.2,2023-08-16
+Madrid,ES,3.6,2024-01-21
+Sydney,AU,27.3,2022-04-08
+Los Angeles,US,34.8,2024-07-13
+Berlin,DE,4.5,2024-11-08
+Los Angeles,US,19.6,2021-05-09
+Sydney,AU,32.0,2024-05-20
+London,GB,5.5,2020-09-07
+Tokyo,JP,30.5,2023-04-07
+London,GB,-1.2,2023-01-10
+Cape Town,ZA,-0.1,2022-09-23
+Berlin,DE,21.8,2024-04-27
+Paris,FR,2.7,2021-02-27
+Mexico City,MX,23.9,2020-04-09
+Buenos Aires,AR,15.2,2024-09-04
+Bangkok,TH,39.5,2022-05-10
+Buenos Aires,AR,21.6,2023-05-26
+Beijing,CN,22.3,2022-08-15
+Berlin,DE,0.5,2021-12-04
+Madrid,ES,24.9,2020-05-10
+Bangkok,TH,29.2,2020-11-07
+Madrid,ES,19.9,2020-06-10
+Paris,FR,0.7,2021-11-09
+Berlin,DE,2.4,2020-11-01
+Paris,FR,-0.5,2024-10-11
+Mumbai,IN,32.9,2022-06-06
+Moscow,RU,14.8,2024-07-28
+Tokyo,JP,28.8,2022-07-01
+Nairobi,KE,6.0,2023-10-22
+Cape Town,ZA,27.1,2024-05-23
+Nairobi,KE,24.9,2024-05-26
+Mumbai,IN,36.7,2022-04-11
+Dubai,AE,25.8,2024-11-02
+Berlin,DE,26.8,2023-05-25
+Madrid,ES,11.6,2024-02-26
+Madrid,ES,28.3,2020-03-15
+Beijing,CN,6.1,2020-11-28
+Berlin,DE,24.4,2023-04-25
+Nairobi,KE,-3.4,2022-12-21
+Nairobi,KE,31.6,2022-05-02
+Rio de Janeiro,BR,9.0,2020-09-22
+Singapore,SG,34.8,2023-04-01
+Toronto,CA,19.3,2024-03-27
+Los Angeles,US,4.1,2020-01-06
+Tokyo,JP,27.3,2022-04-27
+Tokyo,JP,27.5,2022-03-26
+Madrid,ES,4.2,2022-11-20
+Mumbai,IN,40.2,2020-03-23
+Mexico City,MX,4.0,2023-10-04
+Moscow,RU,12.8,2023-07-26
+Nairobi,KE,30.2,2022-08-03
+Nairobi,KE,26.4,2024-07-09
+Los Angeles,US,6.8,2023-09-24
+Berlin,DE,-10.1,2024-12-20
+Cape Town,ZA,27.2,2023-08-14
+Sydney,AU,23.3,2020-07-16
+Berlin,DE,4.8,2020-09-10
+Tokyo,JP,5.0,2021-12-14
+Dubai,AE,37.8,2022-08-15
+Mumbai,IN,14.4,2021-10-26
+Sydney,AU,29.0,2021-06-16
+Buenos Aires,AR,30.8,2023-08-26
+Paris,FR,22.0,2023-04-22
+Paris,FR,27.7,2024-06-14
+Los Angeles,US,7.9,2020-09-07
+Moscow,RU,11.0,2023-05-02
+Tokyo,JP,26.1,2020-03-22
+Sydney,AU,4.2,2021-11-01
+Singapore,SG,42.8,2024-08-12
+Paris,FR,20.7,2020-07-09
+Los Angeles,US,11.0,2024-12-19
+Moscow,RU,9.5,2022-01-24
+Buenos Aires,AR,26.6,2021-03-15
+Sydney,AU,22.2,2023-04-23
+Berlin,DE,23.5,2023-06-16
+London,GB,7.0,2020-02-20
+New York,US,16.2,2024-05-26
+Toronto,CA,24.6,2023-03-27
+Nairobi,KE,39.4,2024-04-05
+Bangkok,TH,22.8,2024-11-07
+Cape Town,ZA,5.2,2021-10-20
+Toronto,CA,19.5,2020-04-09
+Madrid,ES,0.0,2024-09-26
+Mexico City,MX,23.5,2021-06-07
+Berlin,DE,-6.8,2024-01-22
+Toronto,CA,-2.7,2024-02-28
+Mumbai,IN,23.8,2021-01-15
+Berlin,DE,19.6,2022-04-26
+Berlin,DE,-8.9,2022-09-08
+Madrid,ES,29.2,2022-08-16
+Los Angeles,US,28.3,2022-03-05
+Singapore,SG,44.3,2021-04-15
+Berlin,DE,6.2,2023-10-16
+Mumbai,IN,35.1,2024-05-25
+Beijing,CN,16.4,2021-05-13
+Toronto,CA,-2.8,2021-10-21
+Beijing,CN,9.2,2023-02-05
+Rio de Janeiro,BR,14.0,2023-09-10
+Bangkok,TH,36.0,2023-04-25
+Beijing,CN,-1.6,2020-01-13
+Dubai,AE,37.1,2022-05-04
+Los Angeles,US,18.3,2022-06-15
+Rio de Janeiro,BR,34.7,2020-05-15
+New York,US,-1.2,2022-12-24
+Bangkok,TH,14.9,2020-01-21
+Beijing,CN,8.8,2021-12-14
+Dubai,AE,17.9,2021-11-26
+Buenos Aires,AR,1.5,2021-12-14
+Buenos Aires,AR,35.4,2024-04-18
+Bangkok,TH,35.8,2021-07-06
+Sydney,AU,19.2,2022-03-15
+Moscow,RU,-1.6,2022-09-13
+Singapore,SG,40.6,2021-03-12
+Buenos Aires,AR,26.4,2022-07-16
+Moscow,RU,-8.8,2023-02-07
+Dubai,AE,17.2,2023-11-26
+Los Angeles,US,28.1,2021-08-01
+Bangkok,TH,21.8,2020-09-08
+Berlin,DE,23.6,2023-07-23
+Berlin,DE,4.0,2021-01-28
+Mumbai,IN,11.9,2020-01-02
+Dubai,AE,32.0,2020-06-04
+Toronto,CA,-3.8,2021-12-14
+New York,US,28.4,2023-03-23
+Singapore,SG,9.0,2022-01-18
+Moscow,RU,4.0,2023-11-02
+Rio de Janeiro,BR,12.4,2021-11-11
+Bangkok,TH,28.2,2024-04-06
+Bangkok,TH,9.9,2023-01-14
+Nairobi,KE,27.2,2022-06-10
+Dubai,AE,21.0,2024-12-07
+Sydney,AU,6.3,2021-09-03
+Tokyo,JP,22.3,2021-03-02
+Bangkok,TH,36.0,2022-08-03
+London,GB,28.4,2023-05-11
+Mumbai,IN,20.8,2024-10-04
+Sydney,AU,27.7,2024-03-28
+Moscow,RU,15.2,2021-07-20
+Paris,FR,-1.0,2024-01-14
+Moscow,RU,-2.2,2024-11-20
+Moscow,RU,11.3,2022-08-18
+Beijing,CN,27.2,2024-05-11
+Los Angeles,US,29.7,2020-07-09
+Berlin,DE,-6.3,2023-12-11
+Rio de Janeiro,BR,40.4,2023-05-19
+New York,US,25.8,2020-05-08
+London,GB,24.5,2021-03-03
+Bangkok,TH,20.6,2023-09-01
+Rio de Janeiro,BR,9.2,2021-01-15
+Moscow,RU,14.7,2021-08-19
+Sydney,AU,26.7,2020-08-12
+Dubai,AE,34.4,2023-08-24
+Sydney,AU,-0.2,2023-01-27
+Singapore,SG,15.4,2020-12-26
+Bangkok,TH,11.4,2024-09-24
+Buenos Aires,AR,36.7,2023-03-18
+Mexico City,MX,14.6,2023-02-19
+Toronto,CA,-2.8,2024-12-03
+Paris,FR,13.1,2024-08-06
+Mumbai,IN,17.6,2024-09-14
+Cape Town,ZA,3.6,2022-12-06
+Singapore,SG,15.3,2022-12-14
+Paris,FR,17.9,2022-06-03
+Mumbai,IN,11.1,2022-12-25
+Sydney,AU,-3.4,2021-10-01
+Tokyo,JP,26.9,2023-06-23
+Dubai,AE,20.3,2020-10-15
+Moscow,RU,12.3,2023-06-13
+Toronto,CA,16.8,2023-07-14
+Los Angeles,US,7.6,2024-02-14
+Beijing,CN,-7.1,2022-02-08
+Bangkok,TH,10.2,2020-02-26
+Bangkok,TH,41.2,2020-06-12
+Los Angeles,US,7.4,2022-01-07
+Sydney,AU,-0.9,2022-02-09
+London,GB,1.7,2022-11-20
+Dubai,AE,29.3,2024-08-02
+Rio de Janeiro,BR,38.7,2022-05-08
+Madrid,ES,25.1,2023-08-07
+New York,US,28.4,2022-08-25
+Buenos Aires,AR,2.0,2024-10-27
+Beijing,CN,1.8,2022-01-26
+Dubai,AE,15.2,2024-09-01
+Paris,FR,9.4,2020-02-11
+London,GB,-5.0,2021-02-14
+Mexico City,MX,30.7,2021-04-01
+Berlin,DE,-2.5,2020-01-17
+Moscow,RU,12.6,2022-04-15
+Tokyo,JP,13.0,2023-11-08
+Buenos Aires,AR,14.1,2020-01-19
+London,GB,1.1,2021-09-08
+Berlin,DE,0.4,2023-11-10
+Madrid,ES,23.9,2021-03-18
+Singapore,SG,40.0,2024-04-28
+Beijing,CN,1.9,2021-11-14
+Madrid,ES,25.1,2022-07-13
+Toronto,CA,26.0,2022-03-08
+Nairobi,KE,11.3,2024-10-16
+Sydney,AU,5.5,2020-10-03
+Mumbai,IN,37.2,2021-04-12
+Toronto,CA,12.0,2023-04-08
+Rio de Janeiro,BR,36.7,2022-07-12
+Los Angeles,US,21.8,2020-03-17
+Cape Town,ZA,25.7,2024-07-15
+Buenos Aires,AR,23.8,2021-05-15
+Dubai,AE,33.8,2022-04-07
+Paris,FR,5.9,2021-01-21
+London,GB,2.4,2021-10-11
+Cape Town,ZA,27.5,2023-04-11
+Paris,FR,-3.4,2023-01-10
+Nairobi,KE,26.3,2024-08-28
+Moscow,RU,-1.7,2022-02-21
+Singapore,SG,22.0,2022-02-22
+Mexico City,MX,20.9,2023-08-04
+Dubai,AE,13.1,2024-02-17
+Tokyo,JP,15.0,2020-11-11
+Buenos Aires,AR,26.8,2022-08-11
+Los Angeles,US,23.0,2023-08-23
+New York,US,23.5,2022-04-04
+Mexico City,MX,21.3,2022-07-04
+Cape Town,ZA,3.0,2023-11-18
+Tokyo,JP,0.4,2020-02-24
+Bangkok,TH,21.1,2022-01-17
+Los Angeles,US,28.9,2021-04-15
+Los Angeles,US,31.9,2024-03-02
+Buenos Aires,AR,15.3,2021-09-06
+Los Angeles,US,6.0,2023-11-26

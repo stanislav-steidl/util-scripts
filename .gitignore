@@ -212,3 +212,9 @@ poetry.lock
 
 # Experiments
 ml/data*
+# Not for a public repo: third-party assignment, its dataset, Advent of Code puzzle inputs
+nova/*.pdf
+nova/data.csv
+nova/data/
+toy_problems/advent_of_code/**/data/
+toy_problems/advent_of_code/**/input*.txt

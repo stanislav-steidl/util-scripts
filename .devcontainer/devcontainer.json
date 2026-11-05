@@ -1,47 +1,16 @@
 {
   "name": "Ubuntu Devcontainer with GPU PyTorch",
-  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11-bookworm",
 
   "features": {
-    "ghcr.io/devcontainers/features/common-utils:2": {},
+    "ghcr.io/devcontainers/features/common-utils:2": {
+      "installYarnUsingApt": false
+    },
     "ghcr.io/devcontainers/features/git:1": {}
   },
 
-  "customizations": {
-    "vscode": {
-      "extensions": [
-        "ms-python.python",
-        "ms-python.vscode-pylance",
-        "ms-toolsai.jupyter",
-        "ms-azuretools.vscode-docker",
-        "arturock.gitstash",
-        "eamodio.gitlens",
-        "littlefoxteam.vscode-python-test-adapter",
-        "charliermarsh.ruff",
-        "hbenl.vscode-test-explorer",
-        "ms-python.black-formatter",
-        "github.vscode-github-actions",
-        "GitHub.copilot-chat",
-        "GitHub.vscode-pull-request-github"
-      ],
-      "settings": {
-        "python.analysis.typeCheckingMode": "basic",
-        "python.defaultInterpreterPath": "/usr/local/bin/python"
-      }
-    }
-  },
+  "postCreateCommand": "curl -sSL https://install.python-poetry.org | python3 - && poetry config virtualenvs.in-project true && poetry install",
 
-  // Install Poetry + project dependencies
-  "postCreateCommand": "curl -sSL https://install.python-poetry.org | python3 - && poetry install",
-
-  // Persistent volumes
-  "mounts": [
-    "source=C:\\development\\util-scripts,target=/workspace,type=bind,consistency=cached",
-    "source=devcontainer-poetry-cache,target=/root/.cache/pypoetry,type=volume",
-    "source=devcontainer-poetry-venv,target=/root/.cache/pypoetry/virtualenvs,type=volume"
-  ],
-
-  // Enable GPU support in Docker
   "runArgs": ["--gpus", "all"],
 
   "workspaceFolder": "/workspace",
